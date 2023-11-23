@@ -1,0 +1,250 @@
+.home {
+  background-color: #FACBEA;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .overlap-group-wrapper {
+  background-color: #FACBEA;
+  height: 675px;
+  width: 1440px;
+}
+
+.home .overlap-group {
+  background-size: 100% 100%;
+  height: 675px;
+  position: relative;
+}
+
+.home .text-wrapper {
+  color: #B0578D;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  left: 600px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 200px;
+  width: 801px;
+}
+
+.home .text-wrapper-2 {
+  color: #B0578D;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 600px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 400px;
+  width: 801px;
+}
+
+.home .img {
+  height: 350px;
+  left: 243px;
+  object-fit: cover;
+  position: absolute;
+  top: 176px;
+  width: 350px;
+}
+
+
+.navigationbar .text-wrapper {
+  color:#D988B9
+}
+
+.about {
+    background-color: #ffe4d6;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .about .div {
+    background-color: #ffe4d6;
+    height: 639px;
+    position: relative;
+    width: 1300px;
+  }
+  
+  .about .img {
+    height: 400px;
+    left: 844px;
+    position: absolute;
+    top: 82px;
+    width: 400px;
+    border-radius: 50px;
+  }
+  
+  .about .frame {
+    height: 309px;
+    left: 209px;
+    position: absolute;
+    top: 183px;
+    width: 563px;
+  }
+  
+  .about .text-wrapper {
+    color: #B0578D;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    left: 182px;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+  }
+  
+  .about .p {
+    color: #B0578D;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    position: absolute;
+    text-align: justify;
+    top: 105px;
+    width: 563px;
+    
+  }
+  
+  .contact {
+    background-color: #dad7cd;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .contact .div {
+    background-color: #dad7cd;
+    height: 639px;
+    position: relative;
+    width: 1300px;
+  }
+  
+  .contact .frame {
+    height: 144px;
+    left: 710px;
+    position: absolute;
+    top: 114px;
+    width: 539px;
+  }
+  
+  .contact .text-wrapper {
+    color: #B0578D;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    left: 149px;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+  }
+  
+  .contact .for-more-about-me {
+    color: #B0578D;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    text-align: center;
+    top: 71px;
+  }
+  
+  .contact .img {
+    height: 350px;
+    left: 243px;
+    object-fit: cover;
+    position: absolute;
+    top: 176px;
+    width: 350px;
+    border-radius: 50%;
+  }
+  
+  .contact .frame-2 {
+    height: 180px;
+    left: 738px;
+    position: absolute;
+    top: 311px;
+    width: 493px;
+  }
+  
+  .contact .logoemail {
+    height: 40px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 40px;
+  }
+  
+  .contact .logoinstagram {
+    height: 40px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 70px;
+    width: 40px;
+  }
+  
+  .contact .logolinkedin {
+    height: 40px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 140px;
+    width: 40px;
+  }
+
+.contact .text-wrapper-2 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.contact .text-wrapper-3 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 139px;
+}
+
+.contact .text-wrapper-4 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 73px;
+}
+
+
+
+
